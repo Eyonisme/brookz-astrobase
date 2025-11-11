@@ -1,6 +1,6 @@
 ---
 title: GEMINI
-published: 201-07-20
+published: 2017-07-20
 tags: [InsideMe]
 category: Thinkers
 draft: false
