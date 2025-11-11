@@ -40,15 +40,11 @@ export const siteConfig: SiteConfig = {
 };
 
 export const navBarConfig: NavBarConfig = {
-	links: [
-		LinkPreset.Home,
-		LinkPreset.Archive,
-		LinkPreset.About,
-	],
+	links: [LinkPreset.Home, LinkPreset.Archive, LinkPreset.About],
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.JPG", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/images/brookztzy.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Brookz Tzy",
 	bio: "Seorang yang menyeorang, dan cuba menyeorangkan orang.",
 	links: [
@@ -73,7 +69,7 @@ export const profileConfig: ProfileConfig = {
 			name: "X",
 			icon: "fa6-brands:x-twitter",
 			url: "https://x.com/theluffykun",
-		}
+		},
 	],
 };
 
