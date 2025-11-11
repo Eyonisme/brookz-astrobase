@@ -4,7 +4,7 @@ published: 2017-09-10
 description: "Macam mana politikus berfikir"
 image: ""
 tags: ["InsideMe"]
-category: Technology
+category: Thinkers
 draft: false
 ---
 
@@ -72,4 +72,4 @@ Orang kampung sibuk
 
 >"TOLAK GST"
 
->Inamaaa.. hahahaha
+>Inamaaa.. haha Yalaa..
