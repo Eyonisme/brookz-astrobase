@@ -38,7 +38,7 @@ Doakan saya fokus dalam latihan dan berjaya menamatkan latihan dengan jayanya.
 
 *Happy Graduation Day Umieeeeeeeeeeeeee*
 
-![You Did It!](https://www.youtube.com/watch?v=SBCw4_XgouA)
+[You Did It!](https://www.youtube.com/watch?v=SBCw4_XgouA)
 
 >kalau dikira menggunakan teknik astronomi saya, mungkin tahun ini diorang Graduate. MUNGKIN. tapi tidak apa. Bukan dia baca juga.
 
